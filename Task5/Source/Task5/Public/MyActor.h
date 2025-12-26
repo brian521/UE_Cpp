@@ -25,9 +25,13 @@ public:
 
 	FTimerHandle TimerHandle;
 	int32 Count = 0;
+	int32 EventCount = 0;
+	float MovedDistance = 0;
 
 	void PrintCurrentLocation();
 	void Turn();
 	void Move();
+	void Event();
+	void PlayEventRandom(int32 percent);
 	void RepeatFunctions();
 };
