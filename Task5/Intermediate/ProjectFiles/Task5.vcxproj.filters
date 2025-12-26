@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Task5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Task5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Task5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\shadertoolsconfig.json" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Task5">
+      <UniqueIdentifier>{C45298D9-8A04-38E4-908C-A902EA63C81D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Task5\Task5.Build.cs">
+      <Filter>Source\Task5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Task5\Task5.cpp">
+      <Filter>Source\Task5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Task5\Task5.h">
+      <Filter>Source\Task5</Filter>
+    </ClInclude>
+    <Filter Include="Source\Task5\Private">
+      <UniqueIdentifier>{8508130B-F5AD-3F48-8628-BA631EAB3CFC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Task5\Private\MyActor.cpp">
+      <Filter>Source\Task5\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Task5\Public">
+      <UniqueIdentifier>{A119FDBA-2288-3024-8C40-01051EA01CF3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Task5\Public\MyActor.h">
+      <Filter>Source\Task5\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

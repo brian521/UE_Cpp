@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Task5-1983.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/user/Desktop/NBC/UE_Cpp/Task5/Intermediate/Build/Win64/x64/Task5Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/user/Desktop/NBC/UE_Cpp/Task5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task5/Module.Task5.gen.cpp.obj"
+"C:/Users/user/Desktop/NBC/UE_Cpp/Task5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task5/Task5.cpp.obj"
+"C:/Users/user/Desktop/NBC/UE_Cpp/Task5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task5/MyActor.cpp.obj"
+"C:/Users/user/Desktop/NBC/UE_Cpp/Task5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task5/PerModuleInline.gen.cpp.obj"
+"C:/Users/user/Desktop/NBC/UE_Cpp/Task5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task5/Default.rc2.res"
+/OUT:"C:/Users/user/Desktop/NBC/UE_Cpp/Task5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task5/UnrealEditor-Task5-1983.lib"
